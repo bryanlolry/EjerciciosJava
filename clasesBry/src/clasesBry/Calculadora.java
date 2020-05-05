@@ -67,7 +67,7 @@ public static void main(String[] args) {
 			System.out.println("El resultado es " + resultado + "\n");
 			
 		}else {
-			System.out.println("Caracter incorrecto");
+			System.out.println("Caracter incorrecto.");
 		}
 	}
 	
