@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
+
 public class ejercicio2Lab6 {
     public static Scanner entrada;
     public static void main(String[] args) {
